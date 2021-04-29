@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="03ce2516-d671-4b15-8d67-51a6cd19aab8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../SchoolManagementSystem.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/kotlin-reflect-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/kotlin-reflect.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/kotlin-stdlib-jdk7-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/kotlin-stdlib-jdk7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/kotlin-stdlib-jdk8-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/kotlin-stdlib-jdk8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/kotlin-stdlib-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/kotlin-stdlib.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/kotlin-test-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/kotlin-test.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/SchoolManagementSystem/META-INF/SchoolManagementSystem.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/SchoolManagementSystem/main/Admin$WhenMappings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/SchoolManagementSystem/main/Admin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/SchoolManagementSystem/main/Applicant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/SchoolManagementSystem/main/Course.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/SchoolManagementSystem/main/MainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/SchoolManagementSystem/main/NonAcademicStaff.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/SchoolManagementSystem/main/POSITION.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/SchoolManagementSystem/main/Principal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/SchoolManagementSystem/main/Salary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/SchoolManagementSystem/main/Staff.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/SchoolManagementSystem/main/Student$WhenMappings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/SchoolManagementSystem/main/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/SchoolManagementSystem/main/Teacher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/week-1-task-CodaarX/META-INF/week-1-task-CodaarX.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/week-1-task-CodaarX/main/Admin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/week-1-task-CodaarX/main/Applicant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/week-1-task-CodaarX/main/Course.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/week-1-task-CodaarX/main/MainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/week-1-task-CodaarX/main/NonAcademicStaff.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/week-1-task-CodaarX/main/POSITION.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/week-1-task-CodaarX/main/PaymentGateway$WhenMappings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/week-1-task-CodaarX/main/PaymentGateway.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/week-1-task-CodaarX/main/Principal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/week-1-task-CodaarX/main/Salary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/week-1-task-CodaarX/main/Staff.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/week-1-task-CodaarX/main/Student$WhenMappings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/week-1-task-CodaarX/main/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/week-1-task-CodaarX/main/Teacher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/Admin.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/Applicants.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/Course.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/Main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/NonAcademicStaff.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/POSITION.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/PaymentGateway.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/Principal.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/Salary.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/Staff.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/Student.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/Teacher.kt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1qZiUfQQxpLcvvITqkThMhp9abc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="com.decagon.schoolManagementSystem" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="main.MainKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.MainKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03ce2516-d671-4b15-8d67-51a6cd19aab8" name="Default Changelist" comment="" />
+      <created>1617293532995</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617293532995</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="170" key="#com.intellij.ide.util.MemberChooser" timestamp="1617293716943">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="499" y="170" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1617293716943" />
+    <state x="458" y="201" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1617295080503">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="201" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1617295080503" />
+    <state width="1398" height="240" key="GridCell.Tab.0.bottom" timestamp="1617306946620">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="240" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1617306946620" />
+    <state width="1398" height="240" key="GridCell.Tab.0.center" timestamp="1617306946617">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="240" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1617306946617" />
+    <state width="1398" height="240" key="GridCell.Tab.0.left" timestamp="1617306946616">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="240" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1617306946616" />
+    <state width="1398" height="240" key="GridCell.Tab.0.right" timestamp="1617306946619">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="240" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1617306946619" />
+    <state x="104" y="50" key="new project wizard" timestamp="1617294440443">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="104" y="50" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1617294440443" />
+  </component>
+</project>
